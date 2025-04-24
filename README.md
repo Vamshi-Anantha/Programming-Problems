@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0907-koko-eating-bananas) |
+| [0967-minimum-falling-path-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0967-minimum-falling-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0967-minimum-falling-path-sum) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0967-minimum-falling-path-sum) |
 ## Binary Search
 |  |
 | ------- |
