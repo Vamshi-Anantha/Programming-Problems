@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0328-odd-even-linked-list) |
+| [0838-design-linked-list](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0838-design-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0838-design-linked-list](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0838-design-linked-list) |
 ## Queue
 |  |
 | ------- |
