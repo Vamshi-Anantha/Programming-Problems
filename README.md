@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0189-rotate-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0189-rotate-array) |
 ## Tree
 |  |
 | ------- |
