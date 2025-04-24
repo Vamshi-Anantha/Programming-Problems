@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0162-find-peak-element) |
 ## Linked List
 |  |
 | ------- |
