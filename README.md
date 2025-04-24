@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0402-remove-k-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0402-remove-k-digits) |
 ## Database
 |  |
 | ------- |
@@ -242,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
