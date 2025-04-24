@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0503-next-greater-element-ii) |
 ## Database
 |  |
 | ------- |
@@ -266,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
