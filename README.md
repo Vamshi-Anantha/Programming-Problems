@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0198-house-robber) |
 ## Math
 |  |
 | ------- |
