@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0342-power-of-four) |
 ## Combinatorics
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
@@ -225,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
