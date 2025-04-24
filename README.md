@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0069-sqrtx) |
 ## Combinatorics
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0064-minimum-path-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
