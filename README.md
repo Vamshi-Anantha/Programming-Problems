@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0258-add-digits) |
 ## Combinatorics
 |  |
 | ------- |
@@ -195,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
