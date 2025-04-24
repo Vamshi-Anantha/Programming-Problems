@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
