@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0967-minimum-falling-path-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0342-power-of-four) |
+| [1236-n-th-tribonacci-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0812-rotate-string) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
