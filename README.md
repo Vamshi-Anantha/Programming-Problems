@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
