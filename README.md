@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0176-second-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0196-delete-duplicate-emails) |
 ## Bit Manipulation
 |  |
 | ------- |
