@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0049-group-anagrams) |
+| [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
 ## Sorting
 |  |
 | ------- |
@@ -130,4 +132,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0176-second-highest-salary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
