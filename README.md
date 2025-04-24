@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Database
 |  |
 | ------- |
@@ -185,8 +186,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
