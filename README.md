@@ -25,16 +25,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
