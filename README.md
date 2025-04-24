@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
