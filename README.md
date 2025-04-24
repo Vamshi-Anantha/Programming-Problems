@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0496-next-greater-element-i) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0347-top-k-frequent-elements) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
