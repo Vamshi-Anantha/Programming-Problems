@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0739-daily-temperatures) |
 ## Database
 |  |
 | ------- |
@@ -291,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
