@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0402-remove-k-digits) |
+| [0812-rotate-string](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0812-rotate-string) |
 ## Sorting
 |  |
 | ------- |
@@ -294,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0739-daily-temperatures) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
