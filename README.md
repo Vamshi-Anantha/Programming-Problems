@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1224-minimum-falling-path-sum-ii) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0342-power-of-four) |
 | [1236-n-th-tribonacci-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1236-n-th-tribonacci-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Combinatorics
 |  |
 | ------- |
