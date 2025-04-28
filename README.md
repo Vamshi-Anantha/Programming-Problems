@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0812-rotate-string) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -349,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1236-n-th-tribonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
