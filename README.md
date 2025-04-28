@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0739-daily-temperatures) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0525-contiguous-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/2427-first-letter-to-appear-twice) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0525-contiguous-array) |
 ## Recursion
 |  |
 | ------- |
