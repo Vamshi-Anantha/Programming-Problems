@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0242-valid-anagram) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0069-sqrtx) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0735-asteroid-collision) |
 ## Number Theory
