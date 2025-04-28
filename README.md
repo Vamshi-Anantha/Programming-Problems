@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1224-minimum-falling-path-sum-ii) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
