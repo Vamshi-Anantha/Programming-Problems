@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Rolling Hash
 |  |
 | ------- |
