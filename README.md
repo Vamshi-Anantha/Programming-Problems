@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0056-merge-intervals) |
@@ -370,5 +371,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0039-combination-sum) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
