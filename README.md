@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0120-triangle) |
+| [0149-max-points-on-a-line](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0202-happy-number) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0258-add-digits) |
@@ -373,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0039-combination-sum) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/1030-smallest-string-starting-from-leaf) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Vamshi-Anantha/Programming-Problems/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
